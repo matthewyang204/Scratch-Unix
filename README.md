@@ -1,7 +1,7 @@
 # Scratch-Unix
 A place to host my own builds of Scratch for various Unix OSes that Scratch does not support
 
-OSes supported:
+OSes supported in these builds:
 - Apple Silicon macOS
 - AMD64 Linux
 - ARM64 Linux
